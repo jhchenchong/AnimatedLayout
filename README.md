@@ -1,1 +1,4 @@
 # AnimatedLayout
+这是一个UICollectionView的AnimatedLayout,是以及其简单的方式实现了UICollectionView的视觉差效果。参考了[KelvinJin/AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout),他这里是Swift版本的。如果有需要，可以参考大神的源码。
+
+这里是使用OC简单的实现了三种动画效果，具体使用，可以参考Demo
